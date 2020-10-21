@@ -1,0 +1,4 @@
+//Add this dependencies into your build.gradle (App-level) to help it work for a qr code
+
+implementation 'com.google.zxing:core:3.3.2'
+implementation 'com.journeyapps:zxing-android-embedded:3.4.0'
