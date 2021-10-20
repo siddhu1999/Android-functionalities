@@ -17,7 +17,7 @@ import java.io.FileOutputStream;
 import java.text.DateFormat;
 import java.util.Calendar;
 import java.util.Date;
-
+//this are the imports
 import androidx.appcompat.app.AppCompatActivity;
 
 public class qrgenerator extends AppCompatActivity {
@@ -91,3 +91,6 @@ public class qrgenerator extends AppCompatActivity {
         });
     }
 }
+
+
+//this is the main file to generate the qr code for registering the attendence of the user
